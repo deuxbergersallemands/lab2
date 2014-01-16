@@ -32,3 +32,17 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+.project p {
+     font-size: small-caps;
+     background-color: #A9E0FF;
+     text-align: center;
+
+}
+
+p {
+     font-variant: small-caps;
+}
+
+
+
